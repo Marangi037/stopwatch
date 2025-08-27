@@ -1,1 +1,1 @@
-# Stop watch using python python PyQt5 graphic user interface
+# Stop watch using python PyQt5 graphic user interface
